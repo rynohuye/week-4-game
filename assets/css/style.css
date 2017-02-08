@@ -1,0 +1,84 @@
+body{
+	background-image: url("../images/pexels-photo.jpg")
+}
+
+#instructions{
+	background-color: lightblue;
+	border: solid 2px white;
+	width: 65%;
+	margin: 10px;
+	padding: 10px;
+}
+
+h1 {
+	background-color: lightpink;
+	font-size: 50px;
+	text-align: center;
+	width: 50%;
+	margin: 10px;
+	padding: 10px;
+	border: solid 2px white;
+}
+
+#randomNumber{
+	font-size: 35px;
+	background-color: beige;
+	border: solid 2px white;
+	width: 25%;
+	height: 75px;
+	margin: 10px;
+	padding: 10px;
+	display: inline;
+	float: left;
+	
+}
+
+.winslosses {
+	float: left;
+	background-color: beige;
+	border: solid 2px white;
+	width: 10%;
+	height: 75px;
+	margin: 10px;
+	padding: 10px;
+	display: inline;
+}
+
+.crystals {
+	clear: both;
+	float: left;
+}
+
+#blue, #yellow, #green{
+	height: 60px;
+	width: 60px;
+	margin: 5px;
+}
+
+#red{
+	margin: 5px 5px 5px 10px;
+	height: 60px;
+	width: 60px;
+}
+
+#totalbox{
+	clear: both;
+	float: left;
+	font-size: 12px;
+	background-color: beige;
+	border: solid 2px white;
+	width: 25%;
+	height: 25px;
+	margin: 10px 10px 5px 10px;
+}
+
+#total {
+	clear: both;
+	float: left;
+	font-size: 35px;
+	background-color: beige;
+	border: solid 2px white;
+	width: 25%;
+	height: 75px;
+	margin: 5px 10px 10px 10px;
+}
